@@ -1,0 +1,2 @@
+export const USER_LIST_SUCCESS = 'USER_LIST_SUCCESS';
+export const USER_LIST_FAILED = 'USER_LIST_FAILED';
